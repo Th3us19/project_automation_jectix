@@ -1,0 +1,3069 @@
+{
+    "_id": "503DD1-XC220%2DG3-V258004004498",
+    "Device": {
+        "DeviceInfo": {
+            "HardwareVersion": {
+                "_object": false,
+                "_timestamp": "2026-06-07T20:41:14.545Z",
+                "_type": "xsd:string",
+                "_value": "XC220-G3 v1.0 00000000"
+            },
+            "ProvisioningCode": {
+                "_object": false,
+                "_timestamp": "2026-06-07T20:41:14.545Z",
+                "_type": "xsd:string",
+                "_value": ""
+            },
+            "SoftwareVersion": {
+                "_object": false,
+                "_timestamp": "2026-06-07T20:41:14.545Z",
+                "_type": "xsd:string",
+                "_value": "1.7.0 0.8.0 v6062.0 Build 250408 Rel.16001n"
+            },
+            "_object": true,
+            "_writable": false
+        },
+        "IP": {
+            "Interface": {
+                "1": {
+                    "IPv6Address": {
+                        "1": {
+                            "IPAddress": {
+                                "_object": false,
+                                "_timestamp": "2026-06-05T07:16:48.154Z",
+                                "_type": "xsd:string",
+                                "_value": "2804:7994:2098:a01:523d:d1ff:fe9e:7a98"
+                            },
+                            "_object": true
+                        },
+                        "_object": true
+                    },
+                    "_object": true
+                },
+                "6": {
+                    "IPv4Address": {
+                        "1": {
+                            "IPAddress": {
+                                "_object": false,
+                                "_timestamp": "2026-06-07T20:41:14.545Z",
+                                "_type": "xsd:string",
+                                "_value": "100.126.10.229"
+                            },
+                            "_object": true
+                        },
+                        "_object": true
+                    },
+                    "_object": true
+                },
+                "_object": true
+            },
+            "_object": true,
+            "_writable": false
+        },
+        "ManagementServer": {
+            "AliasBasedAddressing": {
+                "_object": false,
+                "_timestamp": "2026-06-07T20:41:14.545Z",
+                "_type": "xsd:boolean",
+                "_value": false,
+                "_writable": false
+            },
+            "ConnReqAllowedJabberIDs": {
+                "_object": false,
+                "_writable": true
+            },
+            "ConnReqJabberID": {
+                "_object": false,
+                "_writable": false
+            },
+            "ConnReqXMPPConnection": {
+                "_object": false,
+                "_writable": true
+            },
+            "ConnectionRequestPassword": {
+                "_object": false,
+                "_timestamp": "2026-06-06T19:46:37.908Z",
+                "_type": "xsd:string",
+                "_value": "acs@JTX2015",
+                "_writable": true
+            },
+            "ConnectionRequestURL": {
+                "_object": false,
+                "_timestamp": "2026-06-07T20:41:14.545Z",
+                "_type": "xsd:string",
+                "_value": "http://100.126.10.229:58000/2c4a2139",
+                "_writable": false
+            },
+            "ConnectionRequestUsername": {
+                "_object": false,
+                "_timestamp": "2026-06-06T19:46:37.907Z",
+                "_type": "xsd:string",
+                "_value": "acs@jectix",
+                "_writable": true
+            },
+            "EnableCWMP": {
+                "_object": false,
+                "_writable": true
+            },
+            "KickURL": {
+                "_object": false,
+                "_writable": false
+            },
+            "ManageableDevice": {
+                "_object": true,
+                "_writable": false
+            },
+            "ManageableDeviceNotificationLimit": {
+                "_object": false,
+                "_writable": true
+            },
+            "ManageableDeviceNumberOfEntries": {
+                "_object": false,
+                "_writable": false
+            },
+            "NATDetected": {
+                "_object": false,
+                "_writable": false
+            },
+            "ParameterKey": {
+                "_object": false,
+                "_timestamp": "2026-06-07T20:41:14.545Z",
+                "_type": "xsd:string",
+                "_value": "",
+                "_writable": false
+            },
+            "Password": {
+                "_object": false,
+                "_writable": true
+            },
+            "PeriodicInformEnable": {
+                "_object": false,
+                "_timestamp": "2026-06-06T19:46:37.907Z",
+                "_type": "xsd:boolean",
+                "_value": true,
+                "_writable": true
+            },
+            "PeriodicInformInterval": {
+                "_object": false,
+                "_timestamp": "2026-06-06T19:46:37.907Z",
+                "_type": "xsd:unsignedInt",
+                "_value": 300,
+                "_writable": true
+            },
+            "PeriodicInformTime": {
+                "_object": false,
+                "_writable": true
+            },
+            "STUNEnable": {
+                "_object": false,
+                "_writable": true
+            },
+            "STUNMaximumKeepAlivePeriod": {
+                "_object": false,
+                "_writable": true
+            },
+            "STUNMinimumKeepAlivePeriod": {
+                "_object": false,
+                "_writable": true
+            },
+            "STUNPassword": {
+                "_object": false,
+                "_writable": true
+            },
+            "STUNServerAddress": {
+                "_object": false,
+                "_writable": true
+            },
+            "STUNServerPort": {
+                "_object": false,
+                "_writable": true
+            },
+            "STUNUsername": {
+                "_object": false,
+                "_writable": true
+            },
+            "SupportedConnReqMethods": {
+                "_object": false,
+                "_writable": false
+            },
+            "UDPConnectionRequestAddress": {
+                "_object": false,
+                "_timestamp": "2026-06-07T20:41:14.545Z",
+                "_type": "xsd:string",
+                "_value": "",
+                "_writable": false
+            },
+            "UDPConnectionRequestAddressNotificationLimit": {
+                "_object": false,
+                "_writable": true
+            },
+            "URL": {
+                "_object": false,
+                "_writable": true
+            },
+            "UpgradesManaged": {
+                "_object": false,
+                "_writable": true
+            },
+            "Username": {
+                "_object": false,
+                "_writable": true
+            },
+            "X_TP_CPE_GponSnType": {
+                "_object": false,
+                "_writable": true
+            },
+            "X_TP_ConnReqPort": {
+                "_object": false,
+                "_writable": true
+            },
+            "X_TP_DMMAP_DataModel": {
+                "_object": false,
+                "_writable": true
+            },
+            "X_TP_IntfInRouter": {
+                "_object": false,
+                "_writable": false
+            },
+            "_object": true,
+            "_timestamp": "2026-06-02T17:55:01.860Z",
+            "_writable": false
+        },
+        "RootDataModelVersion": {
+            "_object": false,
+            "_timestamp": "2026-06-07T20:41:14.545Z",
+            "_type": "xsd:string",
+            "_value": "2.4",
+            "_writable": false
+        },
+        "_object": true,
+        "_writable": false,
+        "Bridging": {
+            "_object": true,
+            "_writable": false
+        },
+        "DHCPv4": {
+            "_object": true,
+            "_writable": false
+        },
+        "DHCPv6": {
+            "_object": true,
+            "_writable": false
+        },
+        "DNS": {
+            "_object": true,
+            "_writable": false
+        },
+        "DSLite": {
+            "_object": true,
+            "_writable": false
+        },
+        "Ethernet": {
+            "_object": true,
+            "_writable": false
+        },
+        "Firewall": {
+            "_object": true,
+            "_writable": false
+        },
+        "GatewayInfo": {
+            "_object": true,
+            "_writable": false
+        },
+        "Hosts": {
+            "_object": true,
+            "_writable": false,
+            "AccessControl": {
+                "_object": true,
+                "_writable": true
+            },
+            "Host": {
+                "_object": true,
+                "_timestamp": "2026-06-07T20:10:27.670Z",
+                "_writable": true
+            },
+            "HostNumberOfEntries": {
+                "_object": false,
+                "_writable": false
+            },
+            "_timestamp": "2026-06-03T01:49:45.325Z"
+        },
+        "IPv6rd": {
+            "_object": true,
+            "_writable": false
+        },
+        "InterfaceStack": {
+            "_object": true,
+            "_writable": false
+        },
+        "InterfaceStackNumberOfEntries": {
+            "_object": false,
+            "_writable": false
+        },
+        "LANConfigSecurity": {
+            "_object": true,
+            "_writable": false
+        },
+        "MAP": {
+            "_object": true,
+            "_writable": false
+        },
+        "NAT": {
+            "_object": true,
+            "_writable": false
+        },
+        "NeighborDiscovery": {
+            "_object": true,
+            "_writable": false
+        },
+        "Optical": {
+            "_object": true,
+            "_writable": false
+        },
+        "PPP": {
+            "_object": true,
+            "_writable": false
+        },
+        "RouterAdvertisement": {
+            "_object": true,
+            "_writable": false
+        },
+        "Routing": {
+            "_object": true,
+            "_writable": false
+        },
+        "Time": {
+            "_object": true,
+            "_writable": false
+        },
+        "UserInterface": {
+            "_object": true,
+            "_writable": false
+        },
+        "Users": {
+            "_object": true,
+            "_writable": false
+        },
+        "WiFi": {
+            "AccessPoint": {
+                "1": {
+                    "AC": {
+                        "_object": true,
+                        "_writable": false
+                    },
+                    "ATFEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "AssociatedDevice": {
+                        "_object": true,
+                        "_timestamp": "2026-06-02T21:42:01.169Z",
+                        "_writable": false
+                    },
+                    "AssociatedDeviceNumberOfEntries": {
+                        "_object": false,
+                        "_writable": false,
+                        "_timestamp": "2026-06-03T02:00:00.450Z",
+                        "_type": "xsd:unsignedInt",
+                        "_value": 0
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "IsolationEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "MUMIMOEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "MaxAssociatedDevices": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "SSIDAdvertisementEnabled": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "SSIDReference": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Security": {
+                        "_object": true,
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "UAPSDCapability": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "UAPSDEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "WMMCapability": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "WMMEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "WPS": {
+                        "_object": true,
+                        "_writable": false
+                    },
+                    "X_TP_APType": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "X_TP_ControlFunction": {
+                        "_object": true,
+                        "_writable": false
+                    },
+                    "X_TP_FTEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "X_TP_TxBFEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-02T20:23:36.870Z",
+                    "_writable": true
+                },
+                "2": {
+                    "_object": true,
+                    "_writable": true
+                },
+                "3": {
+                    "_object": true,
+                    "_writable": true,
+                    "AC": {
+                        "1": {
+                            "AIFSN": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "AccessCategory": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "AckPolicy": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "Alias": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "ECWMax": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "ECWMin": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "TxOpMax": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "_object": true,
+                            "_timestamp": "2026-06-02T22:22:48.069Z",
+                            "_writable": false
+                        },
+                        "2": {
+                            "AIFSN": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "AccessCategory": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "AckPolicy": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "Alias": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "ECWMax": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "ECWMin": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "TxOpMax": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "_object": true,
+                            "_timestamp": "2026-06-02T22:22:48.069Z",
+                            "_writable": false
+                        },
+                        "3": {
+                            "AIFSN": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "AccessCategory": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "AckPolicy": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "Alias": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "ECWMax": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "ECWMin": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "TxOpMax": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "_object": true,
+                            "_timestamp": "2026-06-02T22:22:48.069Z",
+                            "_writable": false
+                        },
+                        "4": {
+                            "AIFSN": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "AccessCategory": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "AckPolicy": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "Alias": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "ECWMax": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "ECWMin": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "TxOpMax": {
+                                "_object": false,
+                                "_writable": true
+                            },
+                            "_object": true,
+                            "_timestamp": "2026-06-02T22:22:48.069Z",
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-02T22:22:48.069Z",
+                        "_writable": false
+                    },
+                    "ATFEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "AssociatedDevice": {
+                        "1": {
+                            "AssociationTime": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "AuthenticationState": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "LastDataDownlinkRate": {
+                                "_object": false,
+                                "_writable": false,
+                                "_timestamp": "2026-06-03T01:54:53.282Z",
+                                "_type": "xsd:unsignedInt",
+                                "_value": 0
+                            },
+                            "LastDataUplinkRate": {
+                                "_object": false,
+                                "_writable": false,
+                                "_timestamp": "2026-06-02T22:41:38.664Z",
+                                "_type": "xsd:unsignedInt",
+                                "_value": 0
+                            },
+                            "MACAddress": {
+                                "_object": false,
+                                "_timestamp": "2026-06-06T21:08:56.274Z",
+                                "_type": "xsd:string",
+                                "_value": "90:a2:5b:69:0a:6d",
+                                "_writable": false
+                            },
+                            "Noise": {
+                                "_object": false,
+                                "_writable": false,
+                                "_timestamp": "2026-06-02T22:41:38.664Z",
+                                "_type": "xsd:int",
+                                "_value": 0
+                            },
+                            "OperatingStandard": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "SignalStrength": {
+                                "_object": false,
+                                "_timestamp": "2026-06-06T21:08:56.274Z",
+                                "_type": "xsd:int",
+                                "_value": 0,
+                                "_writable": false
+                            },
+                            "Stats": {
+                                "BytesReceived": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "BytesSent": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "ErrorsReceived": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "ErrorsSent": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "FailedRetransCount": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "MultipleRetryCount": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "PacketsReceived": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "PacketsSent": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "RetransCount": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "RetryCount": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "_object": true,
+                                "_timestamp": "2026-06-02T22:22:48.069Z",
+                                "_writable": false
+                            },
+                            "X_TP_Bandwidth": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "X_TP_SpatialStream": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "_object": true,
+                            "_timestamp": "2026-06-02T22:22:48.069Z",
+                            "_writable": false
+                        },
+                        "2": {
+                            "AssociationTime": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "AuthenticationState": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "LastDataDownlinkRate": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "LastDataUplinkRate": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "MACAddress": {
+                                "_object": false,
+                                "_timestamp": "2026-06-02T22:22:48.073Z",
+                                "_type": "xsd:string",
+                                "_value": "35:00:00:00:0b:20",
+                                "_writable": false
+                            },
+                            "Noise": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "OperatingStandard": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "SignalStrength": {
+                                "_object": false,
+                                "_timestamp": "2026-06-04T13:41:58.702Z",
+                                "_type": "xsd:int",
+                                "_value": 0,
+                                "_writable": false
+                            },
+                            "Stats": {
+                                "BytesReceived": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "BytesSent": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "ErrorsReceived": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "ErrorsSent": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "FailedRetransCount": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "MultipleRetryCount": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "PacketsReceived": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "PacketsSent": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "RetransCount": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "RetryCount": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "_object": true,
+                                "_timestamp": "2026-06-02T22:22:48.069Z",
+                                "_writable": false
+                            },
+                            "X_TP_Bandwidth": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "X_TP_SpatialStream": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "_object": true,
+                            "_timestamp": "2026-06-02T22:22:48.069Z",
+                            "_writable": false
+                        },
+                        "3": {
+                            "AssociationTime": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "AuthenticationState": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "LastDataDownlinkRate": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "LastDataUplinkRate": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "MACAddress": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "Noise": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "OperatingStandard": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "SignalStrength": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "Stats": {
+                                "BytesReceived": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "BytesSent": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "ErrorsReceived": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "ErrorsSent": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "FailedRetransCount": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "MultipleRetryCount": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "PacketsReceived": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "PacketsSent": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "RetransCount": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "RetryCount": {
+                                    "_object": false,
+                                    "_writable": false
+                                },
+                                "_object": true,
+                                "_timestamp": "2026-06-02T22:22:48.069Z",
+                                "_writable": false
+                            },
+                            "X_TP_Bandwidth": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "X_TP_SpatialStream": {
+                                "_object": false,
+                                "_writable": false
+                            },
+                            "_object": true,
+                            "_timestamp": "2026-06-02T22:22:48.069Z",
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-02T22:22:48.069Z",
+                        "_writable": false
+                    },
+                    "AssociatedDeviceNumberOfEntries": {
+                        "_object": false,
+                        "_writable": false,
+                        "_timestamp": "2026-06-03T02:00:00.450Z",
+                        "_type": "xsd:unsignedInt",
+                        "_value": 1
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "IsolationEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "MUMIMOEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "MaxAssociatedDevices": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "SSIDAdvertisementEnabled": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "SSIDReference": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Security": {
+                        "KeyPassphrase": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "ModeEnabled": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "ModesSupported": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PreSharedKey": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "RadiusSecret": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "RadiusServerIPAddr": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "RadiusServerPort": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "RekeyingInterval": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "SAEPassphrase": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_PSKType": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_WEPAuthenticationMode": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_WEPKey1": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_WEPKey2": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_WEPKey3": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_WEPKey4": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_WEPKeyIndex": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_WPAWPA2EncryptionMode": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-02T22:22:48.069Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "UAPSDCapability": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "UAPSDEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "WMMCapability": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "WMMEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "WPS": {
+                        "Enable": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_ConfigurationState": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "X_TP_DevicePassword": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_PeerPassword": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_SetupLock": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_StartWPS": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_State": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "X_TP_WPSPinLock": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-02T22:22:48.069Z",
+                        "_writable": false
+                    },
+                    "X_TP_APType": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "X_TP_ControlFunction": {
+                        "Enable": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "LanAccessEnable": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "TCEnable": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "TCMaxDownBW": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "TCMaxUpBW": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "TCMinDownBW": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "TCMinUpBW": {
+                            "_object": false,
+                            "_writable": true
+                        },
+                        "TCRuleID": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-02T22:22:48.069Z",
+                        "_writable": false
+                    },
+                    "X_TP_FTEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "X_TP_TxBFEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "_timestamp": "2026-06-02T22:22:48.069Z"
+                },
+                "4": {
+                    "_object": true,
+                    "_writable": true
+                },
+                "5": {
+                    "_object": true,
+                    "_writable": true
+                },
+                "6": {
+                    "_object": true,
+                    "_writable": true
+                },
+                "7": {
+                    "_object": true,
+                    "_writable": true
+                },
+                "8": {
+                    "_object": true,
+                    "_writable": true
+                },
+                "9": {
+                    "_object": true,
+                    "_writable": true
+                },
+                "10": {
+                    "_object": true,
+                    "_writable": true
+                },
+                "11": {
+                    "_object": true,
+                    "_writable": true
+                },
+                "12": {
+                    "_object": true,
+                    "_writable": true
+                },
+                "13": {
+                    "_object": true,
+                    "_writable": true
+                },
+                "14": {
+                    "_object": true,
+                    "_writable": true
+                },
+                "_object": true,
+                "_writable": true,
+                "_timestamp": "2026-06-02T20:23:36.870Z"
+            },
+            "AccessPointNumberOfEntries": {
+                "_object": false,
+                "_writable": false
+            },
+            "DataElements": {
+                "_object": true,
+                "_writable": false
+            },
+            "MultiAP": {
+                "_object": true,
+                "_writable": false
+            },
+            "NeighboringWiFiDiagnostic": {
+                "DiagnosticsState": {
+                    "_object": false,
+                    "_timestamp": "2026-06-03T02:20:33.177Z",
+                    "_type": "xsd:string",
+                    "_value": "",
+                    "_writable": true
+                },
+                "Result": {
+                    "_object": true,
+                    "_timestamp": "2026-06-03T02:20:33.175Z",
+                    "_writable": false
+                },
+                "ResultNumberOfEntries": {
+                    "_object": false,
+                    "_timestamp": "2026-06-03T02:20:33.177Z",
+                    "_type": "xsd:unsignedInt",
+                    "_value": 0,
+                    "_writable": false
+                },
+                "_object": true,
+                "_timestamp": "2026-06-02T19:30:31.554Z",
+                "_writable": false
+            },
+            "Radio": {
+                "1": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "AutoChannelEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "AutoChannelSupported": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "BasicDataTransmitRates": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BeaconPeriod": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Channel": {
+                        "_object": false,
+                        "_timestamp": "2026-06-02T20:31:12.535Z",
+                        "_type": "xsd:unsignedInt",
+                        "_value": 1,
+                        "_writable": true
+                    },
+                    "ChannelsInUse": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "CurrentOperatingChannelBandwidth": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "DTIMPeriod": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "FragmentationThreshold": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "GuardInterval": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "IEEE80211hEnabled": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "IEEE80211hSupported": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "MaxBitRate": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "OperatingChannelBandwidth": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "OperatingFrequencyBand": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "OperatingStandards": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "OperationalDataTransmitRates": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "PossibleChannels": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "PreambleType": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "RTSThreshold": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "RegulatoryDomain": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "_object": true,
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SupportedDataTransmitRates": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SupportedFrequencyBands": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SupportedOperatingChannelBandwidths": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SupportedStandards": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "TransmitPower": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "TransmitPowerSupported": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Upstream": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-02T20:31:12.528Z",
+                    "_writable": false
+                },
+                "2": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "AutoChannelEnable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "AutoChannelSupported": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "BasicDataTransmitRates": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BeaconPeriod": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Channel": {
+                        "_object": false,
+                        "_timestamp": "2026-06-02T20:31:12.597Z",
+                        "_type": "xsd:unsignedInt",
+                        "_value": 36,
+                        "_writable": true
+                    },
+                    "ChannelsInUse": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "CurrentOperatingChannelBandwidth": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "DTIMPeriod": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "FragmentationThreshold": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "GuardInterval": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "IEEE80211hEnabled": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "IEEE80211hSupported": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "MaxBitRate": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "OperatingChannelBandwidth": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "OperatingFrequencyBand": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "OperatingStandards": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "OperationalDataTransmitRates": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "PossibleChannels": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "PreambleType": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "RTSThreshold": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "RegulatoryDomain": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "_object": true,
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SupportedDataTransmitRates": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SupportedFrequencyBands": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SupportedOperatingChannelBandwidths": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SupportedStandards": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "TransmitPower": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "TransmitPowerSupported": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Upstream": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-02T20:31:12.528Z",
+                    "_writable": false
+                },
+                "_object": true,
+                "_writable": false,
+                "_timestamp": "2026-06-02T20:31:12.528Z"
+            },
+            "RadioNumberOfEntries": {
+                "_object": false,
+                "_writable": false
+            },
+            "SSID": {
+                "1": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_timestamp": "2026-06-04T22:05:43.721Z",
+                        "_type": "xsd:string",
+                        "_value": "Device.WiFi.Radio.1.",
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_timestamp": "2026-06-04T22:05:43.721Z",
+                        "_type": "xsd:string",
+                        "_value": "Super 10 LL 2.4G",
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "2": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "3": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_timestamp": "2026-06-04T22:05:43.721Z",
+                        "_type": "xsd:string",
+                        "_value": "Device.WiFi.Radio.2.",
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_timestamp": "2026-06-04T22:05:43.721Z",
+                        "_type": "xsd:string",
+                        "_value": "Super 10 LL 5G",
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "4": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "5": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "6": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "7": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "8": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "9": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "10": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "11": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "12": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "13": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "14": {
+                    "Alias": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "BSSID": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "Enable": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "LastChange": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "LowerLayers": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Name": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "SSID": {
+                        "_object": false,
+                        "_writable": true
+                    },
+                    "Stats": {
+                        "BroadcastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BroadcastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "BytesSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "DiscardPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "ErrorsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "MulticastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "PacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnicastPacketsSent": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "UnknownProtoPacketsReceived": {
+                            "_object": false,
+                            "_writable": false
+                        },
+                        "_object": true,
+                        "_timestamp": "2026-06-04T22:05:43.717Z",
+                        "_writable": false
+                    },
+                    "Status": {
+                        "_object": false,
+                        "_writable": false
+                    },
+                    "_object": true,
+                    "_timestamp": "2026-06-04T22:05:43.717Z",
+                    "_writable": true
+                },
+                "_object": true,
+                "_writable": true,
+                "_timestamp": "2026-06-04T22:05:43.717Z"
+            },
+            "SSIDNumberOfEntries": {
+                "_object": false,
+                "_writable": false
+            },
+            "X_TP_BandSteering": {
+                "_object": true,
+                "_writable": false
+            },
+            "X_TP_GuestSSIDFormat": {
+                "_object": false,
+                "_writable": false
+            },
+            "X_TP_MultiSSIDFormat": {
+                "_object": false,
+                "_writable": false
+            },
+            "X_TP_PrimarySSIDFormat": {
+                "_object": false,
+                "_writable": false
+            },
+            "_object": true,
+            "_timestamp": "2026-06-02T19:30:31.554Z",
+            "_writable": false
+        },
+        "XMPP": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_AlgCfg": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_AppCfg": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_CloudService": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_DOMAIN": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_DefaultGateway": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_EasyMesh": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_FakeIntf": {
+            "_object": true,
+            "_writable": true
+        },
+        "X_TP_GPON": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_Gpio": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_INTERNET_DOMAIN": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_IP6to4": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_Iqos": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_MESH_WIFI": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_ParentControl": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_RE_MAPPING": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_RE_MAPPINGNumberOfEntries": {
+            "_object": false,
+            "_writable": false
+        },
+        "X_TP_RebootWaitTime": {
+            "_object": false,
+            "_writable": false
+        },
+        "X_TP_RouteLimit": {
+            "_object": false,
+            "_writable": true
+        },
+        "X_TP_Services": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_SysCfg": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_Upgrade": {
+            "_object": true,
+            "_writable": false
+        },
+        "X_TP_WAN_LAN_Conflict": {
+            "_object": true,
+            "_writable": false
+        },
+        "_timestamp": "2026-06-02T19:30:31.554Z"
+    },
+    "_deviceId": {
+        "_Manufacturer": "TP-Link",
+        "_OUI": "503DD1",
+        "_ProductClass": "XC220-G3",
+        "_SerialNumber": "V258004004498"
+    },
+    "_lastBootstrap": "2026-06-02T17:55:01.860Z",
+    "_lastInform": "2026-06-07T20:41:14.544Z",
+    "_registered": "2026-06-02T17:55:01.860Z",
+    "_timestamp": "2026-06-07T20:10:27.670Z",
+    "_lastBoot": "2026-06-04T07:16:53.582Z"
+}
