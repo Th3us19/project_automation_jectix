@@ -65,8 +65,8 @@ Agora vamos colocar o motor do backend para rodar.
 1. Abra um terminal no VS Code.
 2. Digite os comandos abaixo para entrar na pasta do servidor, instalar as dependências e iniciar o projeto:
    
-cd jectix-backend
-npm install
+cd jectix-backend,
+npm install,
 npm run dev
 
 ### PASSO 4: Usar os Scripts de Teste (Python)
