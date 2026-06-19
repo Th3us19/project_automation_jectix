@@ -64,6 +64,7 @@ Antes de ligar o código, o banco de dados precisa estar funcionando.
 Agora vamos colocar o motor do backend para rodar.
 1. Abra um terminal no VS Code.
 2. Digite os comandos abaixo para entrar na pasta do servidor, instalar as dependências e iniciar o projeto:
+   
 cd jectix-backend
 npm install
 npm run dev
